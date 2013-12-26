@@ -1,4 +1,4 @@
-IKendeLib
+IKende c# Lib
 =========
 
 IKende c# Lib
