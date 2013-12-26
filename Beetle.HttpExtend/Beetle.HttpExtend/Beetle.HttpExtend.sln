@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beetle.HttpExtend", "Beetle.HttpExtend\Beetle.HttpExtend.csproj", "{F5133E4E-9744-44F4-AC70-CBB90B7C5352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beetle.HttpExtend.UnitTest", "Beetle.HttpExtend.UnitTest\Beetle.HttpExtend.UnitTest.csproj", "{DCE27194-9F8D-4AAB-AF7F-AC488864797D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beetle.HttpExtend.TestApp", "Beetle.HttpExtend.TestApp\Beetle.HttpExtend.TestApp.csproj", "{D85172B1-0956-4FAB-9107-7AAE0507E231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5133E4E-9744-44F4-AC70-CBB90B7C5352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5133E4E-9744-44F4-AC70-CBB90B7C5352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5133E4E-9744-44F4-AC70-CBB90B7C5352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5133E4E-9744-44F4-AC70-CBB90B7C5352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE27194-9F8D-4AAB-AF7F-AC488864797D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE27194-9F8D-4AAB-AF7F-AC488864797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE27194-9F8D-4AAB-AF7F-AC488864797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE27194-9F8D-4AAB-AF7F-AC488864797D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85172B1-0956-4FAB-9107-7AAE0507E231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85172B1-0956-4FAB-9107-7AAE0507E231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85172B1-0956-4FAB-9107-7AAE0507E231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85172B1-0956-4FAB-9107-7AAE0507E231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
